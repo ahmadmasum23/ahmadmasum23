@@ -7,7 +7,7 @@
 </div>
 
 # 💫 About Me:
-👋 Hi! I'm Ahmad Ma’sum, or simply Masum, a passionate and enthusiastic junior programmer from Malang, East Java.<br><br>Currently, I'm a student at SMK Brantas Karangkates, majoring in Software Engineering (RPL). I'm deeply interested in Front-End Development, Back-End Development, Artificial Intelligence (AI), and Chatbot Development.<br><br>I'm always eager to learn new things, explore emerging technologies, and solve real-world problems through code. I believe in continuous improvement and enjoy building meaningful projects that make a difference.<br><br>Let’s build something great together! 🚀
+👋 Hi! I'm Ahmad Ma’sum, or simply Masum, a passionate and enthusiastic junior programmer from Malang, East Java.<br><br>Currently, I'm a student at SMK Brantas Karangkates, majoring in Software Engineering (RPL). I'm deeply interested in Front-End Development, Mobile Development, Artificial Intelligence (AI), and Chatbot Development.<br><br>I'm always eager to learn new things, explore emerging technologies, and solve real-world problems through code. I believe in continuous improvement and enjoy building meaningful projects that make a difference.<br><br>Let’s build something great together! 🚀
 
 
 ## 🌐 Socials:
