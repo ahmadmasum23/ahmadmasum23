@@ -1,6 +1,7 @@
-<p align="center">
-  <img src="https://via.placeholder.com/1000x150/007BFF/FFFFFF?text=Hi,+I'm+Ahmad+Ma'sum+👋" alt="Hi, I'm Ahmad Ma'sum 👋">
-</p>
+<div align="center" style="background-color:#007BFF; padding: 20px; border-radius: 10px;">
+  <h1 style="color:white;">Hi, I'm Ahmad Ma'sum 👋</h1>
+
+</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Developer;Mobile+Developer" alt="Typing SVG" />
