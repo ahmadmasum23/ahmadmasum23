@@ -12,7 +12,7 @@ Let’s build something great together! 🚀
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@abah330)
 
 </div>
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 <div align="center">
 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) 
@@ -48,7 +48,7 @@ Let’s build something great together! 🚀
 ![](https://github-profile-trophy.vercel.app/?username=ahmadmasum23&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 </div>
-### 🔝 Top Contributed Repo
+##🔝 Top Contributed Repo
 <div align="center">
 
 ![](https://github-contributor-stats.vercel.app/api?username=ahmadmasum23&limit=5&theme=dark&combine_all_yearly_contributions=true)
