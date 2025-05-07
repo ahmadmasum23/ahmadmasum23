@@ -9,7 +9,12 @@
 👋 Hi! I'm Ahmad Ma’sum, or simply Masum, a passionate and enthusiastic junior programmer from Malang, East Java.<br><br>Currently, I'm a student at SMK Brantas Karangkates, majoring in Software Engineering (RPL). I'm deeply interested in Front-End Development, Mobile Development, Artificial Intelligence (AI), and Chatbot Development.<br><br>I'm always eager to learn new things, explore emerging technologies, and solve real-world problems through code. I believe in continuous improvement and enjoy building meaningful projects that make a difference.<br><br>Let’s build something great together!  🚀
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/msum023) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmadmasum127) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@abah330) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ahmadmasum4200) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/msum023) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmadmasum127) 
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@abah330) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ahmadmasum4200) 
+[![Lynk ID](https://img.shields.io/badge/Lynk.ID-%231875F0.svg?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhla)]()
+
 
 # 💻 Tech Studied:
 
