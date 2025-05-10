@@ -14,7 +14,7 @@
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=tiktok&logoColor=white)](https://tiktok.com/@abah330)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white)](https://youtube.com/@ahmadmasum4200)
 [![Twitter](https://img.shields.io/badge/Twitter-%23000000.svg?logo=x&logoColor=white)](https://x.com/ahmadmasum23)
-[![Lynk ID](https://img.shields.io/badge/Lynkid-%231875F0.svg?logo=link&logoColor=white)](https://lynk.id/ahmadmasum)
+[![Lynk ID](https://img.shields.io/badge/LynkId-%231875F0.svg?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjMyIiBoZWlnaHQ9IjMyIiByeD0iNiIgZmlsbD0iI0ZGRiIvPgo8cGF0aCBkPSJNMTYuNSA5TDExLjUgMjMuNUgxNC41TDE1LjUgMjBIMTguNUwxOS41IDIzLjVIMjIuNUwxNy41IDlIMTYuNVoiIGZpbGw9IiMwMDYyRkYiLz4KPC9zdmc+)](https://lynk.id/ahmadmasum)
 
 
 
