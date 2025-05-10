@@ -14,7 +14,7 @@
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=tiktok&logoColor=white)](https://tiktok.com/@abah330)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white)](https://youtube.com/@ahmadmasum4200)
 [![Twitter](https://img.shields.io/badge/Twitter-%23000000.svg?logo=x&logoColor=white)](https://x.com/ahmadmasum23)
-[![Lynk ID](https://img.shields.io/badge/Lynk.ID-%231875F0.svg?style=for-the-badge&logo=linktree&logoColor=white)](https://lynk.id/ahmadmasum)
+[![Lynk ID](https://img.shields.io/badge/Lynkid-%231875F0.svg?logo=link&logoColor=green)](https://lynk.id/ahmadmasum)
 
 
 
