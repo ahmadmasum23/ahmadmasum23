@@ -1,7 +1,7 @@
 <div align="center" style="background-color:#007BFF; padding: 20px; border-radius: 10px;">
   <h5 style="color:white;">Hi, I'm Ahmad Ma'sum 👋</h5>
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Halow+Welcome;Mobile+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+My+Profile;Mobile+Developer" alt="Typing SVG" />
   </p>
 </div>
 
