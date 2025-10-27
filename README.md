@@ -17,7 +17,6 @@
 [![Lynk ID](https://img.shields.io/badge/Lynk-%231875F0.svg?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjMyIiBoZWlnaHQ9IjMyIiByeD0iNiIgZmlsbD0iI0ZGRiIvPgo8cGF0aCBkPSJNMTYuNSA5TDExLjUgMjMuNUgxNC41TDE1LjUgMjBIMTguNUwxOS41IDIzLjVIMjIuNUwxNy41IDlIMTYuNVoiIGZpbGw9IiMwMDYyRkYiLz4KPC9zdmc+)](https://lynk.id/ahmadmasum)
 
 
-
 # 💻 Tech Studied:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
