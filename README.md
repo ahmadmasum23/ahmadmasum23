@@ -17,16 +17,17 @@
 [![Lynk ID](https://img.shields.io/badge/Lynk-%231875F0.svg?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjMyIiBoZWlnaHQ9IjMyIiByeD0iNiIgZmlsbD0iI0ZGRiIvPgo8cGF0aCBkPSJNMTYuNSA5TDExLjUgMjMuNUgxNC41TDE1LjUgMjBIMTguNUwxOS41IDIzLjVIMjIuNUwxNy41IDlIMTYuNVoiIGZpbGw9IiMwMDYyRkYiLz4KPC9zdmc+)](https://lynk.id/ahmadmasum)
 
 
-# 💻 Tech Studied:
-
-
- <img width="12" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="60" alt="flutter logo"  />
- <img width="12" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="figma logo"  />
-
 # 💻 Tech Stack:
-![ChatGPT](https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white)
+<p align="left">
+  <img src="https://img.icons8.com/?size=512&id=mVxghK5b6iZp&format=png" height="60" alt="ChatGPT" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60" alt="Next.js" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="React" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="60" alt="Dart" />
+</p>
+
 
 # 🏆 GitHub Trophies:
 <div align="center">
