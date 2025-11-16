@@ -8,7 +8,6 @@
 # 💫 About Me:
 👋 Hi! I'm Ahmad Ma’sum, or simply Masum, a passionate and enthusiastic junior programmer from Malang, East Java.<br><br>Currently, I'm a student at SMK Brantas Karangkates, majoring in Software Engineering (RPL). I'm deeply interested in Front-End Development, Mobile Development, Artificial Intelligence (AI), and Chatbot Development.<br><br>I'm always eager to learn new things, explore emerging technologies, and solve real-world problems through code. I believe in continuous improvement and enjoy building meaningful projects that make a difference.<br><br>Let’s build something great together!  🚀
 
-# 💻 Tech Stack:
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="70" alt="figma logo"  />
   <img width="18" />
@@ -19,6 +18,28 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="80" alt="Next.js" />
   <img width="18" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="70" alt="React" />
+  # 💻 Tech Stack:
+<p align="left">
+  <!-- Figma -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="Figma" />
+  <img width="12" />
+
+  <!-- Dart -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="60" alt="Dart" />
+  <img width="12" />
+
+  <!-- Flutter -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="60" alt="Flutter" />
+  <img width="12" />
+
+  <!-- JavaScript -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="JavaScript" />
+  <img width="12" />
+
+  <!-- React -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="React" />
+</p>
+
   
  
 </p>
