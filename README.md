@@ -16,25 +16,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="90" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="120" alt="React" />
 </p>
-
-## 
-<p align="center">
-  <a href="https://instagram.com/msum023">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/ahmadmasum127">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://tiktok.com/@abah330">
-    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=tiktok&logoColor=white" />
-  </a>
-  <a href="https://youtube.com/@ahmadmasum4200">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white" />
-  </a>
-  <a href="https://x.com/ahmadmasum23">
-    <img src="https://img.shields.io/badge/Twitter-%23000000.svg?logo=x&logoColor=white" />
-  </a>
-</p>
+#
 
 # 🏆 GitHub Trophies:
 <div align="center">
