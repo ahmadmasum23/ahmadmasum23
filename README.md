@@ -46,12 +46,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=ahmadmasum23&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 </div>
 
-# 🔝 Top Contributed Repo:
-<div align="center">
-  
-![](https://github-contributor-stats.vercel.app/api?username=ahmadmasum23&limit=5&theme=dark&combine_all_yearly_contributions=true)
-</div>
-
 
 <div align="center">
   
