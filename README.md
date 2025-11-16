@@ -19,14 +19,26 @@
 
 # 💻 Tech Stack:
 <p align="left">
-  <img src="https://img.icons8.com/?size=512&id=mVxghK5b6iZp&format=png" height="60" alt="ChatGPT" />
+  <!-- Flutter -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="60" alt="Flutter" />
   <img width="12" />
+
+  <!-- ChatGPT -->
+  <img src="https://raw.githubusercontent.com/hngocl/chatgpt-icon/main/chatgpt-icon.png" height="60" alt="ChatGPT" />
+  <img width="12" />
+
+  <!-- Next.js -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60" alt="Next.js" />
   <img width="12" />
+
+  <!-- React -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="React" />
   <img width="12" />
+
+  <!-- Dart -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="60" alt="Dart" />
 </p>
+
 
 
 # 🏆 GitHub Trophies:
