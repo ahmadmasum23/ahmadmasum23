@@ -23,10 +23,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="60" alt="Flutter" />
   <img width="12" />
 
-  <!-- ChatGPT -->
-  <img src="https://raw.githubusercontent.com/hngocl/chatgpt-icon/main/chatgpt-icon.png" height="60" alt="ChatGPT" />
-  <img width="12" />
-
   <!-- Next.js -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60" alt="Next.js" />
   <img width="12" />
