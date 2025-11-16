@@ -21,14 +21,24 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="120" alt="React" />
 </p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/msum023) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmadmasum127)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=tiktok&logoColor=white)](https://tiktok.com/@abah330)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white)](https://youtube.com/@ahmadmasum4200)
-[![Twitter](https://img.shields.io/badge/Twitter-%23000000.svg?logo=x&logoColor=white)](https://x.com/ahmadmasum23)
-[![Lynk ID](https://img.shields.io/badge/Lynk-%231875F0.svg?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjMyIiBoZWlnaHQ9IjMyIiByeD0iNiIgZmlsbD0iI0ZGRiIvPgo8cGF0aCBkPSJNMTYuNSA5TDExLjUgMjMuNUgxNC41TDE1LjUgMjBIMTguNUwxOS41IDIzLjVIMjIuNUwxNy41IDlIMTYuNVoiIGZpbGw9IiMwMDYyRkYiLz4KPC9zdmc+)](https://lynk.id/ahmadmasum)
-
+## 
+<p align="center">
+  <a href="https://instagram.com/msum023">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/ahmadmasum127">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://tiktok.com/@abah330">
+    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=tiktok&logoColor=white" />
+  </a>
+  <a href="https://youtube.com/@ahmadmasum4200">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://x.com/ahmadmasum23">
+    <img src="https://img.shields.io/badge/Twitter-%23000000.svg?logo=x&logoColor=white" />
+  </a>
+</p>
 
 # 🏆 GitHub Trophies:
 <div align="center">
