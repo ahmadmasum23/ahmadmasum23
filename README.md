@@ -9,8 +9,8 @@
 👋 Hi! I'm Ahmad Ma’sum, or simply Masum, a passionate and enthusiastic junior programmer from Malang, East Java.<br><br>Currently, I'm a student at SMK Brantas Karangkates, majoring in Software Engineering (RPL). I'm deeply interested in Front-End Development, Mobile Development, Artificial Intelligence (AI), and Chatbot Development.<br><br>I'm always eager to learn new things, explore emerging technologies, and solve real-world problems through code. I believe in continuous improvement and enjoy building meaningful projects that make a difference.<br><br>Let’s build something great together!  🚀
 
 # 💻 Tech Stack:
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="60" alt="Flutter" />
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="90" alt="Flutter" />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60" alt="Next.js" />
   <img width="18" />
