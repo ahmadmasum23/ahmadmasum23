@@ -16,17 +16,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="90" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="80" alt="React" />
 </p>
-
-# 🏆 GitHub Trophies:
-<div align="center">
-  
-![](https://github-profile-trophy.vercel.app/?username=ahmadmasum23&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-</div>
-
-
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=ahmadmasum23&icon=1&color=3)](https://visitcount.itsvg.in)
-</div>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
