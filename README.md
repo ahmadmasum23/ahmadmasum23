@@ -1,34 +1,33 @@
-<h1>Hi, I'm Ahmad Ma'sum! 👋</h1>
+<div align="center" style="background-color:#007BFF; padding: 20px; border-radius: 10px;">
+  <h3 style="color:white;">Hi, I'm Ahmad Ma'sum 👋</h3>
+  <p>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+My+Profile;Mobile+Developer" alt="Typing SVG" />
+  </p>
+</div>
 
-![counter](https://en82zzdykb6ji7x.m.pipedream.net)
+# 💫 About Me:
+👋 Hi! I'm Ahmad Ma’sum, or simply Masum, a passionate Software Developer from Malang, East Java, Indonesia.
 
-<p>
-  <a href="https://github.com/ahmadmasum23" target="_blank"><img src="https://img.shields.io/badge/GitHub-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:ahmadmasum@example.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
+Currently, I'm pursuing a Diploma (D3) in Information Technology at the Faculty of Vocational Studies, Universitas Brawijaya. My interests include Front-End Development, Mobile Development, Artificial Intelligence (AI), Chatbot Development, and the Internet of Things (IoT).
 
-<h3>👨‍💻 About Me</h3>
-<p>
-  I'm a Junior Programmer and D3 Information Technology student at Universitas Brawijaya. Passionate about Mobile & Web Software Development, and robotics (UKM SORA).
-</p>
+With hands-on experience in building software applications and exploring various technologies, I enjoy turning ideas into practical solutions. I'm always looking to expand my knowledge, refine my technical skills, and develop innovative projects that solve real-world problems.
 
-<h1>I Work With;</h1>
-<p>
-  <a href="https://flutter.dev" target="_blank"><img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&labelColor=black&logo=flutter&logoColor=02569B"></a>
-  <a href="https://dart.dev" target="_blank"><img src="https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&labelColor=black&logo=dart&logoColor=0175C2"></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&labelColor=black&logo=typescript&logoColor=3178C6"></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&labelColor=black&logo=next.js&logoColor=white"></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/-Python-4B77BE?style=for-the-badge&labelColor=black&logo=python&logoColor=4B77BE"></a>
-  <a href="https://supabase.com/" target="_blank"><img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&labelColor=black&logo=supabase&logoColor=3ECF8E"></a>
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=4169E1"></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&labelColor=black&logo=tailwindcss&logoColor=06B6D4"></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032"></a>
-</p>
+I believe in continuous learning, creative problem-solving, and building technology that makes a difference.
 
-<br>
-<br>
+Let’s build something great together! 🚀
 
+#
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmadmasum23&show_icons=true&theme=tokyonight" alt="Ahmad Ma'sum's GitHub Stats" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="100" alt="Dart" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="90" alt="Flutter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="90" alt="figma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="90" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="80" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="80" alt="TypeScript" />
 </p>
+</p>
+
+#
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
