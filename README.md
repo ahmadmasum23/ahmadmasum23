@@ -1,39 +1,34 @@
-<div align="center">
-  <h2>Hi, I'm Ahmad Ma'sum 👋</h2>
-  <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Welcome+to+My+Profile;Mobile+Developer;Front-End+Developer;AI+Enthusiast" alt="Typing SVG" />
-  </p>
-  <p>
-    🎓 D3 Information Technology Student at Universitas Brawijaya
-  </p>
-</div>
+<h1>Hi, I'm Ahmad Ma'sum! 👋</h1>
 
-## 💫 About Me
+![counter](https://en82zzdykb6ji7x.m.pipedream.net)
 
-👋 Hi! I'm Ahmad Ma'sum, or simply Masum, an aspiring developer from Malang, East Java, Indonesia.
-
-🎓 I'm currently pursuing a Diploma in Information Technology at Universitas Brawijaya.
-
-💻 I'm interested in Mobile Development, Front-End Development, Artificial Intelligence, and Chatbot Development.
-
-🚀 I enjoy building applications, exploring new technologies, and improving my programming skills through hands-on projects.
-
-🤝 Always open to learning, collaboration, and new opportunities!
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="60" alt="Dart" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="60" alt="Flutter" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="Figma" />
+<p>
+  <a href="https://github.com/ahmadmasum23" target="_blank"><img src="https://img.shields.io/badge/GitHub-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:ahmadmasum@example.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
+<h3>👨‍💻 About Me</h3>
+<p>
+  I'm a Junior Programmer and D3 Information Technology student at Universitas Brawijaya. Passionate about Mobile & Web Software Development, and robotics (UKM SORA).
+</p>
 
-<div align="center">
-  <i>"Always learning, always building."</i> 🚀
-</div>
+<h1>I Work With;</h1>
+<p>
+  <a href="https://flutter.dev" target="_blank"><img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&labelColor=black&logo=flutter&logoColor=02569B"></a>
+  <a href="https://dart.dev" target="_blank"><img src="https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&labelColor=black&logo=dart&logoColor=0175C2"></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&labelColor=black&logo=typescript&logoColor=3178C6"></a>
+  <a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&labelColor=black&logo=next.js&logoColor=white"></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/-Python-4B77BE?style=for-the-badge&labelColor=black&logo=python&logoColor=4B77BE"></a>
+  <a href="https://supabase.com/" target="_blank"><img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&labelColor=black&logo=supabase&logoColor=3ECF8E"></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=4169E1"></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&labelColor=black&logo=tailwindcss&logoColor=06B6D4"></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032"></a>
+</p>
 
-<!-- Profile README -->
+<br>
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmadmasum23&show_icons=true&theme=tokyonight" alt="Ahmad Ma'sum's GitHub Stats" />
+</p>
